@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "5b56",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "6868",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "b3cd",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "bb5f",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "faf1",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "cf7b",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    },
+    {
+      "id": "7518",
+      "username": "parham",
+      "email": "parham@gmail.com",
+      "password": "82031320"
+    }
+  ],
+  "cartItems": [
+    {}
+  ]
+}
